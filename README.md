@@ -1,7 +1,9 @@
 # Computer Vision Engineer
 
 ## Education 			        		
-- B.Tech, ECE | Vellore Institute of Technology (_August 2025_) 
+- B.Tech, ECE | Vellore Institute of Technology (_August 2025_)
+
+
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
