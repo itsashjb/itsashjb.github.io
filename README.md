@@ -1,11 +1,7 @@
 # Computer Vision Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education 			        		
+- B.Tech., Electronics and Communication | Vellore Institute of Technology (_August 2025_) (_CGPA- 8.58_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
