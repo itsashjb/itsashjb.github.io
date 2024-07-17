@@ -1,7 +1,7 @@
 # Computer Vision Engineer
 
 ## Education 			        		
-- B.Tech., Electronics and Communication | Vellore Institute of Technology (_August 2025_) (_CGPA- 8.58_)
+- B.Tech., Electronics and Communication | Vellore Institute of Technology (_August 2025_) 
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
