@@ -1,4 +1,4 @@
-# Data Scientist
+# Computer Vision Engineer
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
